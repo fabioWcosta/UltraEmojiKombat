@@ -52,5 +52,11 @@ public class Lutador {
     public void setNacionalidade(String nacionalidade) {
         this.nacionalidade = nacionalidade;
     }
+    public int getIdade(){
+        return idade;
+    }
+    public void setIdade(int idade){
+        this.idade = idade;
+    }
 
 }
