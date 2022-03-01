@@ -11,7 +11,11 @@ public class Lutador {
     // Métodos Públicos
     public void apresentar() {
         System.out.println("-----------------------------------------");
-        System.out.println("CHEGOU A HORA! Apresentamos o lutador "+");
+        System.out.println("CHEGOU A HORA! Apresentamos o lutador " + this.getNome());
+        System.out.println("Diretamente de " +  this.getNacionalidade());
+        System.out.println(" com " + this.getIdade() + " anos e " + this.getAltura() + " de altura.");
+        System.out.println(" pesando " + this.getPeso() + " Kgs");
+        
     }
     public void status(){
 
