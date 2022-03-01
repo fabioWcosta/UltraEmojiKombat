@@ -88,7 +88,9 @@ public class Lutador {
     public void setDerrotas(int derrotas){
         this.derrotas = derrotas;
     }
-
+    public int getEmpates(){
+        return empates;
+    }
 
 
 
