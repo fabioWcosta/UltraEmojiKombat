@@ -39,8 +39,9 @@ public class Lutador {
         this.derrotas = de;
         this.empates = em;
     }    
-Gog@3333
-gog@3333
-gog3333
+
+    public String getNome(){
+        
+    }
 
 }
