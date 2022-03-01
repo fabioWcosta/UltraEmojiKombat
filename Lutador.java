@@ -8,5 +8,9 @@ public class Lutador {
     private String categoria;
     private int vitorias, derrotas, empates;
 
+    // Métodos Públicos
+    
+
+
     }
 }
