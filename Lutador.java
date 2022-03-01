@@ -92,7 +92,7 @@ public class Lutador {
         return empates;
     }
     public void setEmpates(int empates){
-        this.
+        this.empates = empates;
     }
 
 
