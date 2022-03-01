@@ -77,9 +77,15 @@ public class Lutador {
         this.categoria = categoria;
     }
     public int getVitorias(){
-        return
+        return vitorias;
     }
-
+    public void setVitorias(int vitorias){
+        this.vitorias = vitorias;
+    }
+    public int getDerrotas(){
+        return derrotas;
+    }
+    
 
 
 
