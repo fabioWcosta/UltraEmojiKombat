@@ -91,7 +91,9 @@ public class Lutador {
     public int getEmpates(){
         return empates;
     }
-
+    public void setEmpates(int empates){
+        this.
+    }
 
 
 }
