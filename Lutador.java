@@ -11,6 +11,6 @@ public class Lutador {
     // Métodos Públicos
     
 
-
+    // Métodos Especiais
     }
 }
