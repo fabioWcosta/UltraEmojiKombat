@@ -1,6 +1,7 @@
 public class Lutador {
     //Atributos
     private String nome;
-    private
+    private String nacionalidade;
+    
     }
 }
