@@ -84,7 +84,9 @@ public class Lutador {
             this.categoria = "Médio" ;
         }else if(this.peso <=120.2){
             this.categoria = "Pesado";
-        }
+        }else {
+            this.categoria = "Inválido!";
+        } 
     }
     public int getVitorias(){
         return vitorias;
