@@ -37,6 +37,7 @@ public class Lutador {
         this.peso = pe;
         this.vitorias = vi;
         this.derrotas = de;
+        this.empates = em;
     }    
 
 
