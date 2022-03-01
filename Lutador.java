@@ -19,9 +19,11 @@ public class Lutador {
 
     }
     public void perderLuta() {
+
+    }
+    public void empatarLuta() {
         
     }
-
 
 
     // Métodos Especiais
