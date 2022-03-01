@@ -76,6 +76,9 @@ public class Lutador {
     public void setCategoria(String categoria){
         this.categoria = categoria;
     }
+    public int getVitorias(){
+        return
+    }
 
 
 
