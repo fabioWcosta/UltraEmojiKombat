@@ -1,6 +1,6 @@
 public class Lutador {
     //Atributos
-    public class Lutador{
-        
+    private String nome;
+    private
     }
 }
