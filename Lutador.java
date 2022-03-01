@@ -46,5 +46,11 @@ public class Lutador {
     public void setNome(String nome){
         this.nome = nome;    
     }
+    public String getNacionalidade(){
+        return nacionalidade;    
+    }
+    public void setNacionalidade(String nacionalidade) {
+        this.nacionalidade = nacionalidade;
+    }
 
 }
