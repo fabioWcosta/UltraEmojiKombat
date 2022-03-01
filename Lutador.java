@@ -22,10 +22,13 @@ public class Lutador {
 
     }
     public void empatarLuta() {
+
+    }
+
+
+    // Métodos Especiais 
+        //Método Construtor:
         
-    }
+            
 
-
-    // Métodos Especiais
-    }
 }
