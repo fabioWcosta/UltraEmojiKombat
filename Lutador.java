@@ -3,6 +3,7 @@ public class Lutador {
     private String nome;
     private String nacionalidade;
     private int idade;
-    private float 
+    private float altura;
+    private float peso;
     }
 }
