@@ -12,7 +12,10 @@ public class Lutador {
     public void apresentar() {
 
     }
-    public 
+    public void status(){
+
+    }
+    public
 
     // Métodos Especiais
     }
