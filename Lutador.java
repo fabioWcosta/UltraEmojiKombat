@@ -9,7 +9,7 @@ public class Lutador {
     private int vitorias, derrotas, empates;
 
     // Métodos Públicos
-    
+    public void apresentar
 
     // Métodos Especiais
     }
