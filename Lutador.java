@@ -58,5 +58,9 @@ public class Lutador {
     public void setIdade(int idade){
         this.idade = idade;
     }
+    public float getAltura(){
+        return altura;
+    }
+    public 
 
 }
