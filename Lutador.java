@@ -31,6 +31,10 @@ public class Lutador {
     //Método Construtor:
     public Lutador(String no, String na, int id, float al, float pe, int vi, int de, int em) {
         this.nome = no;
+        this.nacionalidade = na;
+        this.idade = id;
+        this.altura = al;
+        this.peso = pe;
     }    
 
 
