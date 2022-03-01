@@ -65,9 +65,9 @@ public class Lutador {
         this.altura = altura;
     }
     public float getPeso(){
-        
+        return peso;
     }
-
+    
 
 
 
