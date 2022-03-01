@@ -10,7 +10,8 @@ public class Lutador {
 
     // Métodos Públicos
     public void apresentar() {
-
+        System.out.println("-----------------------------------------");
+        system.out.println("");
     }
     public void status(){
 
