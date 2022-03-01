@@ -15,7 +15,9 @@ public class Lutador {
     public void status(){
 
     }
-    public
+    public void ganharLuta() {
+        
+    }
 
     // Métodos Especiais
     }
