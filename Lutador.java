@@ -27,8 +27,9 @@ public class Lutador {
 
 
     // Métodos Especiais 
-        //Método Construtor:
-        
-            
+    
+    //Método Construtor:
+    public Lutador(String no;)    
+
 
 }
