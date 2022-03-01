@@ -85,7 +85,9 @@ public class Lutador {
     public int getDerrotas(){
         return derrotas;
     }
-    
+    public void setDerrotas(int derrotas){
+        this.derrotas = derrotas;
+    }
 
 
 
