@@ -11,7 +11,7 @@ public class Lutador {
     // Métodos Públicos
     public void apresentar() {
         System.out.println("-----------------------------------------");
-        system.out.println("");
+        System.out.println("CHEGOU A HORA! Apresentamos o lutador "+");
     }
     public void status(){
 
