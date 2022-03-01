@@ -16,8 +16,13 @@ public class Lutador {
 
     }
     public void ganharLuta() {
+
+    }
+    public void perderLuta() {
         
     }
+
+
 
     // Métodos Especiais
     }
