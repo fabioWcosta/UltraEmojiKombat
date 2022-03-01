@@ -20,7 +20,7 @@ public class Lutador {
         System.out.println(this.getEmpates() + " empates");
     }
     public void status(){
-
+        System.out.println(this.getNome() + " é um peso " + this.getCategoria());
     }
     public void ganharLuta() {
         this.setVitorias(this.getVitorias() + 1);
