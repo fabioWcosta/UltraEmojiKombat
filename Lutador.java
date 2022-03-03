@@ -27,6 +27,7 @@ public class Lutador {
         System.out.println("Perdeu" + this.getDerrotas() + " vezes");
         System.out.println("Empatou" + this.getEmpates() + " vezes");
     }
+        //A cada uso
     public void ganharLuta() {
         this.setVitorias(this.getVitorias() + 1);
     }
