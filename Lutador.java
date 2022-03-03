@@ -9,7 +9,7 @@ public class Lutador {
     private int vitorias, derrotas, empates;
 
     // Métodos Públicos
-        // apresentação dos lutadores
+        // apresentação dos lutadores:
     public void apresentar() {
         System.out.println("-----------------------------------------");
         System.out.println("CHEGOU A HORA! Apresentamos o lutador " + this.getNome());
