@@ -27,7 +27,7 @@ public class Lutador {
         System.out.println("Perdeu" + this.getDerrotas() + " vezes");
         System.out.println("Empatou" + this.getEmpates() + " vezes");
     }
-        //A cada uso do
+        //A cada uso dos métodos abaixo, muda a colocação do lutador
     public void ganharLuta() {
         this.setVitorias(this.getVitorias() + 1);
     }
