@@ -20,7 +20,7 @@ public class Lutador {
         System.out.println(this.getDerrotas() + " derrotas");
         System.out.println(this.getEmpates() + " empates");
     }
-        //Dados específicos dos lutadores
+        //Dados específicos dos lutadores:
     public void status(){
         System.out.println(this.getNome() + " é um peso " + this.getCategoria());
         System.out.println("Ganhou " + this.getVitorias() + " vezes");
