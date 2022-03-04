@@ -82,12 +82,12 @@ public class Lutador {
     }
     public void setPeso(float peso){
         this.peso = peso;
-        //this.setCategoria();
+        this.setCategoria();
     }
     public String getCategoria(){
         return categoria;
     }
-    private void setCategoria(String categoria){
+    public void setCategoria(String categoria){
         this.categoria = categoria;
         if (this.peso < 52.2) {
             this.categoria = "Inválido";
