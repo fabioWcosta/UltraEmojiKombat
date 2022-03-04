@@ -23,9 +23,9 @@ public class Lutador {
         //Dados específicos dos lutadores:
     public void status(){
         System.out.println(this.getNome() + " é um peso " + this.getCategoria());
-        System.out.println("Ganhou " + this.getVitorias() + " vezes");
-        System.out.println("Perdeu " + this.getDerrotas() + " vezes");
-        System.out.println("Empatou " + this.getEmpates() + " vezes");
+        System.out.println("Ganhou " + this.getVitorias() + " vezes!");
+        System.out.println("Perdeu " + this.getDerrotas() + " vezes!");
+        System.out.println("Empatou " + this.getEmpates() + " vezes!");
     }
         //A cada uso dos métodos abaixo, muda a colocação do lutador
     public void ganharLuta() {
