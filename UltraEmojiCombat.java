@@ -6,7 +6,7 @@ public class UltraEmojiCombat{
 
         Lutador l[] = new Lutador [6];
 
-        Lutador l[0] = 
+        l[0] = 
 
             l.status(); 
     }
