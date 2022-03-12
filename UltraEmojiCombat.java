@@ -7,7 +7,7 @@ public class UltraEmojiCombat{
         Lutador l[] = new Lutador [6];
 
         l[0] = new Lutador("Pretty Boy", "França", 31, 1.75f, 68.9f, 11, 2, 1);
-        l[1] = new Lutador(no, na, id, al, pe, vi, de, em)
+        l[1] = new Lutador(no, na, id, al, pe, vi, de, em);
 
             l[0].status(); 
             l[1].status();
