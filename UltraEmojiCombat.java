@@ -11,6 +11,7 @@ public class UltraEmojiCombat{
 
             l[0].status(); 
             l[1].status();
+            l[1].status();
 
     }
 }
