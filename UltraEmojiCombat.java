@@ -10,7 +10,7 @@ public class UltraEmojiCombat{
         l[1] = new Lutador("Putscript", "Brasil", 29, 1.68f, 58.7f, 14, 2, 3);
         l[2] = new Lutador("Snapshadow", "EUA", 35, 1.65f, 80.9f, 12, 2, 1 );
         l[3] = new Lutador("Deadcode", "Austrália", 28, 1.93f, 81.5f, 13, 0, 2);
-        l[4] = new Lutador("", na, id, al, pe, vi, de, em)
+        l[4] = new Lutador("", na, id, al, pe, vi, de, em);
         
             l[0].status(); 
             l[1].status();
