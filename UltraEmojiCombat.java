@@ -17,6 +17,6 @@ public class UltraEmojiCombat{
             //l[2].apresentar();
             l[4].status();
             l[4].perderLuta();
-            l[4].status();
+            //l[4].status();
     }
 }
