@@ -15,5 +15,6 @@ public class UltraEmojiCombat{
         
             l[0].status(); 
             l[2].apresentar();
+            l[4].status();
     }
 }
