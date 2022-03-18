@@ -14,7 +14,7 @@ public class UltraEmojiCombat{
         l[5] = new Lutador("Nerdart", "EUA", 30, 1.81f, 105.7f, 12, 2, 4);
         
             l[0].status(); 
-            //l[1].ganharLuta();
+            l[1].ganharLuta();
             //l[1].status();
     }
 }
