@@ -1,7 +1,8 @@
 package UltraEmojiCombat;
 
 public class Luta{
-        //atributos
-        private Lutador desafiado;
-    }   
+    //atributos
+    private Lutador desafiado;
+    //
+}   
 
