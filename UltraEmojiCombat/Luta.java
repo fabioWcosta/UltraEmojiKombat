@@ -6,6 +6,6 @@ public class Luta{
     private Lutador desafiante;
     private int rounds;
     private boolean aprovada;
-    //
+    //Métodos
 }   
 
