@@ -8,6 +8,12 @@ public class Luta{
     private boolean aprovada;
     //Métodos Públicos
 
-    public void marcarLuta()
+    public void marcarLuta(){
+
+    }
+    public void Lutar(){
+
+        
+    }
 }   
 
