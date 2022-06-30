@@ -25,7 +25,9 @@ public class Luta{
     public Lutador getDesafiante() {
         return desafiante;
     }
-    public void setDesafiante
+    public void setDesafiante() {
+        
+    }
 
 }   
 
