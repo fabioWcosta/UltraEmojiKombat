@@ -32,7 +32,7 @@ public class Luta{
         return rounds;
     }
     public void setRounds(int rounds){
-        this.rounds = rounds
+        this.rounds = rounds;
     }
 
 }   
