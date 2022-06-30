@@ -19,7 +19,7 @@ public class Luta{
     public Lutador getDesafiado() {
         return desafiado;
     }
-    public void setDesafiado() {
+    public void setDesafiado(Lutador desafiado) {
         this.desafiado = desafiado;
     }
 
