@@ -26,7 +26,7 @@ public class Luta{
         return desafiante;
     }
     public void setDesafiante() {
-        
+        this.desafiante = desafiante;
     }
 
 }   
