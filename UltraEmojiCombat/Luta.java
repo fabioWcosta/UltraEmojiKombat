@@ -22,8 +22,8 @@ public class Luta{
     public void setDesafiado(Lutador desafiado) {
         this.desafiado = desafiado;
     }
-    public Lutador getDesafiante(){
-        
+    public Lutador getDesafiante() {
+        return desafiante;
     }
 
 }   
