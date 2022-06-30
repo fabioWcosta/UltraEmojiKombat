@@ -29,8 +29,9 @@ public class Luta{
         this.desafiante = desafiante;
     }
     public int getRounds(){
-
+        return rounds;
     }
+    
 
 }   
 
