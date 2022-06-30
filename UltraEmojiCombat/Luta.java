@@ -37,5 +37,9 @@ public class Luta{
     public boolean isAprovada() {
         return aprovada;
     }
+    public void setAprovada(){
+        
+    }
+
 }   
 
