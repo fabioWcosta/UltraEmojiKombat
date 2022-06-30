@@ -34,6 +34,8 @@ public class Luta{
     public void setRounds(int rounds) {
         this.rounds = rounds;
     }
-
+    public boolean getAprovada(){
+        
+    }
 }   
 
