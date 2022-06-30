@@ -15,5 +15,7 @@ public class Luta{
 
         
     }
+    //Métodos Especiais
+
 }   
 
