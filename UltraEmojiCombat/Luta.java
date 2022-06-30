@@ -19,6 +19,9 @@ public class Luta{
     public Lutador getDesafiado() {
         return desafiado;
     }
+    public void setDesafiado() {
+        this.desafiado = desafiado;
+    }
 
 }   
 
