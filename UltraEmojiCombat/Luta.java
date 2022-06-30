@@ -28,13 +28,13 @@ public class Luta{
     public void setDesafiante(Lutador desafiante) {
         this.desafiante = desafiante;
     }
-    public int getRounds(){
+    public int getRounds() {
         return rounds;
     }
     public void setRounds(int rounds) {
         this.rounds = rounds;
     }
-    public boolean isAprovada(){
+    public boolean isAprovada() {
         return aprovada;
     }
 }   
