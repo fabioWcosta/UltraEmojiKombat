@@ -38,7 +38,7 @@ public class Luta{
         return aprovada;
     }
     public void setAprovada(){
-        
+        this.aprovada = aprovada;
     }
 
 }   
