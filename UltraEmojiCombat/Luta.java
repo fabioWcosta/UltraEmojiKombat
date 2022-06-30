@@ -37,7 +37,7 @@ public class Luta{
     public boolean isAprovada() {
         return aprovada;
     }
-    public void setAprovada(){
+    public void setAprovada(boolean aprovada){
         this.aprovada = aprovada;
     }
 
