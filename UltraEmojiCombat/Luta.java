@@ -31,7 +31,7 @@ public class Luta{
     public int getRounds(){
         return rounds;
     }
-    public void setRounds(int rounds){
+    public void setRounds(int rounds) {
         this.rounds = rounds;
     }
 
